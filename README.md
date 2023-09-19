@@ -1,6 +1,5 @@
 # Presentation_challenge
 Wavecon Telecom was facing challenges after launching 5G services in India.
- 
 I am super excited to share my #codebasicsvirtualinternship project challenge.
 Wavecon Telecommunication is a leading company in India that facilitates telecom service in India just like Jio and Airtel.
 After launching 5G services in India they were facing challenges.
@@ -23,5 +22,8 @@ For voice-over, Transition effects, Denoise, and background music.
 3.	And total unsubscriber 1.3 Millions
 4.	Their few plans were hampered badly.
 ## So how they can solve their problems I explained in the presentation video please watch till the end.
+ ## Video Link:
+ https://www.linkedin.com/posts/ajayk079_codebasicsvirtualinternship-presentation-activity-7109848079041802240-QN0n?utm_source=share&utm_medium=member_desktop
+
 # Overview
 ![Final Insight](https://github.com/ajayk079/Presentation_challenge/assets/83025605/f24b0be7-6fb0-480b-93d3-db283a011b0e)
