@@ -23,3 +23,5 @@ For voice-over, Transition effects, Denoise, and background music.
 3.	And total unsubscriber 1.3 Millions
 4.	Their few plans were hampered badly.
 ## So how they can solve their problems I explained in the presentation video please watch till the end.
+# Overview
+![Final Insight](https://github.com/ajayk079/Presentation_challenge/assets/83025605/f24b0be7-6fb0-480b-93d3-db283a011b0e)
