@@ -4,7 +4,7 @@ I am super excited to share my #codebasicsvirtualinternship project challenge.
 Wavecon Telecommunication is a leading company in India that facilitates telecom service in India just like Jio and Airtel.
 After launching 5G services in India they were facing challenges.
 Their Users were unhappy with their services so they are migrating to other platforms.
-They approached AtliQ Technology to solve these problems because there are lots of brilliant data analytics teams. 
+They approached AtliQ Technology to solve these problems because there are a lot of brilliant data analytics teams. 
 I’m a data analyst intern @ AtliQ. So, I was given this task to solve this problem. 
 Now I’m presenting my portion of opinion to tackle their issues.
 
